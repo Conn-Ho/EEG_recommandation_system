@@ -1,0 +1,2 @@
+# EEG_recommandation_system
+基于脑机接口的主动推荐算法
